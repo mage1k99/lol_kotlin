@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">pagadai urtugal</string>
+    <string name="dice_button_text">urutugal</string>
+    <string name="dice_roll_no">pagdai een</string>
+    <string name="lets_roll">vangal urtalam</string>
+    <string name="content_desc_img">pugai padathi</string>
+    <string name="done_button">mudithathu</string>
+    <string name="nick_name_text_des">kailpom</string>
+    <string name="nickname_edit_text_hint">peru eluthu</string>
+    <string name="save_btn">Profile</string>
+    <string name="dice_entry">Save your Dice entry</string>
+</resources>
